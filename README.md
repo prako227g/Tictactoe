@@ -8,6 +8,9 @@ This project is a simple implementation of the classic Tic Tac Toe game using HT
 
 ![Tic Tac Toe Screenshot](result.png)
 
+## DEMO:
+https://prako227g.github.io/Tictactoe/
+
 ## Features
 
 - Responsive design: The game adapts to different screen sizes using CSS Grid and media queries.
