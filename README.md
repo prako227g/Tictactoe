@@ -6,7 +6,7 @@
 
 This project is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, with the objective of getting three of their symbols in a row, column, or diagonal.
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](result.png)
 
 ## Features
 
