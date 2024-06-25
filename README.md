@@ -48,7 +48,8 @@ https://prako227g.github.io/Tictactoe/
 
 ## Author
 
-- [Praveen Kumar J](https://github.com/prako227g/)
+- Praveen Kumar
+
 - GitHub: [prako227g](https://github.com/prako227g/)
 
 ---
